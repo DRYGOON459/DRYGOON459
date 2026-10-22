@@ -13,7 +13,7 @@
 
 *student · builder · breaker*
 
-![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-DRYGOON459?style=flat-square&logo=github)
 ![Location](https://img.shields.io/badge/Location-India-orange?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Always%20Learning-blue?style=flat-square)
 
