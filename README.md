@@ -13,9 +13,10 @@
 
 *student · builder · breaker*
 
-![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-DRYGOON459?style=flat-square&logo=github)
-![Location](https://img.shields.io/badge/Location-India-orange?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Always%20Learning-blue?style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-DRYGOON459-181717?style=for-the-badge&logo=github)](https://github.com/DRYGOON459)
+![India](https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge)
+![Coding](https://img.shields.io/badge/Status-Always%20Learning-00C853?style=for-the-badge)
+
 
 </div>
 
