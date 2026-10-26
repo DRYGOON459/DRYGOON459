@@ -24,7 +24,7 @@
 
 ```python
 class DRYGOON:
-    interests  = ["security", "competitive coding", "open source"]
+    interests  = ["open source", "devops", "problem solving"]
     languages  = ["Python", "Java", "JavaScript", "TypeScript"]
     currently  = "Building real-world projects"
     philosophy = "Learn, Build, Improve"
