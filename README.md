@@ -11,7 +11,7 @@
 
 ```
 
-*student · innovation · enthusiast*
+*student · innovation*
 
 [![GitHub](https://img.shields.io/badge/GitHub-DRYGOON459-181717?style=for-the-badge&logo=github)](https://github.com/DRYGOON459)
 ![India](https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge)
